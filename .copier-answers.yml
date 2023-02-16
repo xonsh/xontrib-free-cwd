@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier
+_commit: v0.1.0
+_src_path: gh:xonsh/xontrib-template
+email: no@no.no
+enable_autoloading: false
+enable_pre_commit_hooks: true
+full_name: xontrib-free-cwd
+github_username: xonsh
+has_aliases: false
+has_events: false
+package_manager: setuptools
+project_name: free-cwd
+project_package_name: free_cwd
+project_repo_name: xontrib-free-cwd
+project_short_description: To release the lock on the current directory whenever the
+    prompt is shown in xonsh shell. Windows only xontrib.
+pure_py: true
+py_module_name: xontrib_free_cwd
+version: 0.0.1
+
