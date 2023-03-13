@@ -2,7 +2,7 @@
 To release the lock on the current directory whenever the prompt is shown in xonsh shell. Windows only xontrib.
 </p>
 
-<p align="center">  
+<p align="center">
 If you like the idea click ⭐ on the repo and <a href="https://twitter.com/intent/tweet?text=Nice%20xontrib%20for%20the%20xonsh%20shell!&url=https://github.com/xonsh/xontrib-free-cwd" target="_blank">tweet</a>.
 </p>
 
@@ -26,7 +26,7 @@ xontrib load free_cwd
 Enabling this will allow other programs or
 Windows Explorer to delete or rename the current or parent
 directories. Internally, it is accomplished by temporarily resetting
-CWD to the root drive folder while waiting at the prompt. 
+CWD to the root drive folder while waiting at the prompt.
 
 ## Known issues
 
